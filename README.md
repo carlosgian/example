@@ -1,8 +1,8 @@
-# Título
+# Algebraic Number Theory
 
-lorem ipsum text
-otra modificación
-una última
+Check this out
+
+![Hifumi holding a book](hifumi_book_cut.png)
 
 This commit officializes the first version and also teacher how to use tags.
 
